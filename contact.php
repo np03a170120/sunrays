@@ -59,11 +59,34 @@
                                 </a>
                             </div>
                         </div>
-
+                        <ul class="contact">
+                            <li>
+                                <a href="#">
+                                    <img src="./images/call-icon.png" alt=""><span>(01) - 12736521</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <img src="./images/email-icon.png" alt=""><span>company@email.com</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <img src="./images/location-icon.png" alt=""><span>Maitidevi, kathmandu</span>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
 
                 </form>
             </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="map">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.463334084711!2d85.33301761506196!3d27.702977182793852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb199f75f08da5%3A0x641a4463533be28c!2sUltrabyte%20International%20Pvt.%20Ltd%20%7C%20IT%20Company%20in%20Nepal!5e0!3m2!1sen!2snp!4v1645441325602!5m2!1sen!2snp"
+                width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
     </div>
 </section>

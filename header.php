@@ -60,12 +60,15 @@
                                             <a class="nav-link" href="about.php">About us</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">We recruit</a>
+                                            <a class="nav-link" href="recruit.php">We recruit</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="demand.php">Demand Letters</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="contact.php">Contact Us</a>
                                         </li>
-                                        <li class="nav-item dropdown">
+                                        <!-- <li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
                                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                 Dropdown link
@@ -75,7 +78,7 @@
                                                 <a class="dropdown-item" href="#">Another action</a>
                                                 <a class="dropdown-item" href="#">Something else here</a>
                                             </div>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </nav>
