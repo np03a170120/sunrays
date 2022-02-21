@@ -53,13 +53,17 @@
                                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                                     <ul class="navbar-nav">
                                         <li class="nav-item active">
-                                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                                            <a class="nav-link" href="index.php">Home <span
+                                                    class="sr-only">(current)</span></a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">About us</a>
+                                            <a class="nav-link" href="about.php">About us</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#">We recruit</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="contact.php">Contact Us</a>
                                         </li>
                                         <li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
